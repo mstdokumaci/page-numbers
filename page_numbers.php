@@ -1,7 +1,4 @@
 <?php
-
-	print_r(implode(' ', page_numbers(342, 921, 15)));
-
 	function page_numbers ($current_page, $page_count, $link_count) {
 		if ($link_count<10) {$link_count=10;}
 		$page_links=array(1=>true, $page_count=>true);
