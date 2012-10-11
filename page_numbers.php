@@ -7,7 +7,7 @@
 			$page_links[$i]=true;
 		}
 		$left=$current_page-4; if ($left<1) {$left=false;}
-		$right=$page_count-$current_page-3; if ($right<1) {$right=false;}
+		$right=$page_count-$current_page-4; if ($right<1) {$right=false;}
 		$available=$link_count-count($page_links);
 		$left_step=($left) ? $left/($left+$right)*$available : false;
 		$right_step=($right) ? $right/($left+$right)*$available : false;
