@@ -1,4 +1,2 @@
-page-numbers
-============
+#A helper function for a less tought pagination problem
 
-A method for selecting better page numbers to reduce click depth.
