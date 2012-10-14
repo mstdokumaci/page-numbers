@@ -39,4 +39,5 @@ Displaying 17th of 67 pages:
   echo implode(' ', page_numbers(17, 67, 15));
 
 Output is:
-1 4 7 10 13 15 16 17 18 20 30 40 50 60 67
+1 | 4 | 7 | 10 | 13 | 15 | 16 | 17 | 18 | 20 | 30 | 40 | 50 | 60 | 67
+
