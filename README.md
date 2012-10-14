@@ -24,7 +24,14 @@ Some of them uses a menu like this:
 
 << First .. 11 | 12 | 13 | 14 | 15 | 16 | **17** | 18 | 19 | 20 ... Last >>
 
-This one also is not a good solution. Only makes possible, jumping 10 pages in one click. Not more.
+This one also is not a good solution. Only makes possible, jumping 10 pages in one click, not more.
 
 ## Solution
+
+I wrote a helper function creates a better menu, deciding which pages to link.
+So you give your *current page number*, *count of total pages* and *count of links you want* for your menu.
+Function returns a list of page numbers to link.
+
+### Examples
+
 
