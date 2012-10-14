@@ -12,10 +12,13 @@ Listing links for all pages is not a good option.
 
 For sake of simplicity in many sites, they use a pagination menu like this:
 
-< Previous  (17 of 67 pages) Next >
+< Previous  (**17** of 67 pages) Next >
 
 This is not much user friendly of course.
 If you want to go page 52, you need to click "Next >" link 35 times.
 Sounds bad.
 
+Some of them uses a menu like this:
+
+<< First .. 11 | 12 | 13 | 14 | 15 | 16 | **17** | 18 | 19 | 20 ... Last >>
 
