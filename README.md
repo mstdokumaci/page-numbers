@@ -28,7 +28,7 @@ This one also is not a good solution. Only makes possible, jumping 10 pages in o
 
 ## Solution
 
-I wrote a helper function creates a better menu, deciding which pages to link.
+I wrote an helper function creates a better menu, deciding which pages to link.
 So you give your **current page number**, **count of total pages** and **count of links you want** for your menu.
 Function returns **a list of page numbers** to link.
 
